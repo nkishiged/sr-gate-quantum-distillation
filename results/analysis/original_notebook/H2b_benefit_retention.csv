@@ -1,0 +1,5 @@
+teacher,n_datasets,n_seed_cells,mean_retention_diff,ci_low,ci_high,wilcoxon_p_one_sided,benefit_min_relative,superior_retention
+QELM,1,1,0.0,0.0,0.0,,0.01,False
+VQC,1,1,0.0,0.0,0.0,,0.01,False
+QRC,1,2,0.5860440423979056,0.5860440423979056,0.5860440423979056,,0.01,True
+QKRR,1,2,0.6290973424371529,0.6290973424371529,0.6290973424371529,,0.01,True

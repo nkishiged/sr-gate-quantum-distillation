@@ -1,0 +1,5 @@
+teacher,n_cells,gate_zero_n,gate_one_n,gate_intermediate_n
+QELM,30,29,1,0
+QKRR,30,27,2,1
+QRC,30,28,1,1
+VQC,30,28,2,0

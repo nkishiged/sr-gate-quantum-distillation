@@ -1,0 +1,9 @@
+teacher,comparator,n_datasets,n_favorable_datasets,fraction_favorable
+QELM,NaiveKD,6,6,1.0
+QELM,PersistenceGateKD,6,1,0.16666666666666666
+VQC,NaiveKD,6,6,1.0
+VQC,PersistenceGateKD,6,1,0.16666666666666666
+QRC,NaiveKD,6,6,1.0
+QRC,PersistenceGateKD,6,1,0.16666666666666666
+QKRR,NaiveKD,6,6,1.0
+QKRR,PersistenceGateKD,6,1,0.16666666666666666

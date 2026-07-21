@@ -1,0 +1,11 @@
+{
+  "created_utc": "2026-07-20T22:27:49.641286+00:00",
+  "profile": "PAPER_T4_5H_V3_FINAL_HOLDOUT",
+  "config_sha256": "6211de525ae086de0589ec87badd2051a29a17805df73c784145b532d3442d53",
+  "code_fingerprint": "aec41faea5beb214f7651f63be1380b0379eb405af714751c35338f62e6a7990",
+  "dataset_fingerprint": "232dac184cc896304cc751aab2697fe9bb6837bceaea16f55ecb5976822d71b5",
+  "preprocessing_version": "CHRONO_SORT_DEDUP_GRID_PERSISTENCE_DEV_FINAL_V3",
+  "statistical_protocol_version": "SEALED_FINAL_TEST_DATASET_LEVEL_H1_H2A_H2B_V3",
+  "run_fingerprint": "4b53f0d205ce3756e5ce9b19a709eebeb26e2c9b52481ddc724208fa32d41d94",
+  "run_tag": "4b53f0d205ce"
+}

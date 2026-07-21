@@ -1,0 +1,5 @@
+teacher,n_datasets,mean_diff_soft_minus_hard,ci_low,ci_high,delta_NI,non_inferior,status
+QELM,6,0.0,0.0,0.0,0.02,True,SUPPORTED
+VQC,6,0.0,0.0,0.0,0.02,True,SUPPORTED
+QRC,6,-0.003663252557699907,-0.010989757673099723,0.0,0.02,True,SUPPORTED
+QKRR,6,-0.01880514952960663,-0.05641544858881989,0.0,0.02,True,SUPPORTED

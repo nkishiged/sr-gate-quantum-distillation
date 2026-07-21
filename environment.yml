@@ -1,0 +1,19 @@
+name: sr-gate-distillation-v3
+channels:
+  - pytorch
+  - nvidia
+  - conda-forge
+dependencies:
+  - python=3.12
+  - numpy=2.0.2
+  - pandas=2.3.3
+  - scipy=1.16.3
+  - scikit-learn=1.6.1
+  - matplotlib=3.10.0
+  - pytorch=2.10
+  - jupyterlab
+  - nbconvert
+  - nbformat
+  - ipykernel
+  - pytest
+  - pip

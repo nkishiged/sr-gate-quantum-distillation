@@ -1,0 +1,20 @@
+{
+  "created_utc": "2026-07-20T22:27:40.644508+00:00",
+  "python": "3.12.13 (main, Mar  4 2026, 09:23:07) [GCC 11.4.0]",
+  "platform": "Linux-6.12.90+-x86_64-with-glibc2.35",
+  "hostname": "7611ffff1f95",
+  "numpy": "2.0.2",
+  "pandas": "2.3.3",
+  "scipy": "1.16.3",
+  "sklearn": "1.6.1",
+  "torch": "2.10.0+cu128",
+  "matplotlib": "3.10.0",
+  "cuda_available": true,
+  "cuda_device": "Tesla T4",
+  "cuda_version": "12.8",
+  "cudnn_version": 91002,
+  "git_commit": null,
+  "pipeline_code_version": "PAPER_T4_5H_V3_FINAL_HOLDOUT_2026-07-20",
+  "preprocessing_version": "CHRONO_SORT_DEDUP_GRID_PERSISTENCE_DEV_FINAL_V3",
+  "statistical_protocol_version": "SEALED_FINAL_TEST_DATASET_LEVEL_H1_H2A_H2B_V3"
+}

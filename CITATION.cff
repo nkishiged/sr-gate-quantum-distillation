@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "Please cite this software and the associated article."
+title: "When Not to Distill: Student-Relative Gating to Mitigate Negative Transfer in Quantum-to-CeNN Knowledge Distillation for Engineering Time-Series Forecasting"
+type: software
+version: 3.0.0
+date-released: 2026-07-21
+license: MIT
+authors:
+  - family-names: Djenga
+    given-names: Gédéon Nkishi
+  - family-names: Kambale
+    given-names: Witesyavwirwa Vianney
+  - family-names: Kambale
+    given-names: Exaucé Maruba
+  - family-names: Bokoro
+    given-names: Pitshou Ntambu
+  - family-names: Muhire
+    given-names: Jean-Pierre Mugisha
+  - family-names: Kyamakya
+    given-names: Kyandoghere
+keywords:
+  - knowledge distillation
+  - negative transfer
+  - quantum machine learning
+  - Cellular Neural Networks
+  - time-series forecasting
+  - selective gating

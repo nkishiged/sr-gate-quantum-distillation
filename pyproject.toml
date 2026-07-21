@@ -1,0 +1,15 @@
+[build-system]
+requires = ["setuptools>=70"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "sr-gate-distillation-artifact"
+version = "3.0.0"
+description = "Reproducibility artifact for student-relative selective quantum-to-CeNN knowledge distillation"
+requires-python = ">=3.12,<3.13"
+license = {text = "MIT"}
+authors = [{name = "Gédéon Nkishi Djenga"}]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+addopts = "-ra"

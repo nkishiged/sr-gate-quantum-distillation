@@ -1,0 +1,7 @@
+dataset,path,bytes,sha256,url
+AAPL,datasets/AAPL.csv,299854,3ed6cf3e0cbb0920f81025d12f74c13f164cd3680dcfc716b49a3a800f263303,https://raw.githubusercontent.com/matplotlib/sample_data/master/aapl.csv
+ETTh1,datasets/ETTh1.csv,2589657,f18de3ad269cef59bb07b5438d79bb3042d3be49bdeecf01c1cd6d29695ee066,https://raw.githubusercontent.com/zhouhaoyi/ETDataset/main/ETT-small/ETTh1.csv
+ETTm2,datasets/ETTm2.csv,9677236,db973ca252c6410a30d0469b13d696cf919648d0f3fd588c60f03fdbdbadd1fd,https://raw.githubusercontent.com/zhouhaoyi/ETDataset/main/ETT-small/ETTm2.csv
+Energy,datasets/Energy.csv,4070265,4eb2b16d42bf07ec41ab55cb842191594cb69452725a6d3c0991658a628fde84,https://raw.githubusercontent.com/panambY/Hourly_Energy_Consumption/master/data/PJME_hourly.csv
+Exchange,datasets/Exchange.csv,546336,0127465b51e3cd3c360f8eb2be30cfd294689a2a55903eb8245aafc396626c7f,https://raw.githubusercontent.com/laiguokun/multivariate-time-series-data/master/exchange_rate/exchange_rate.txt.gz
+Jena,datasets/Jena.csv,43164220,9626d3964f7afb3fa94b6f3d3a0e92fe96e4a4477c31ed9875cc64d6717c129f,https://storage.googleapis.com/tensorflow/tf-keras-datasets/jena_climate_2009_2016.csv.zip

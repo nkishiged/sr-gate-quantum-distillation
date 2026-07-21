@@ -1,0 +1,5 @@
+teacher,n_datasets,n_seed_cells,mean_retention_diff,ci_low,ci_high,wilcoxon_p_one_sided,benefit_min_relative,original_effect_direction,inference_status
+QELM,1,1,0.0,0.0,0.0,,0.01,zero_or_negative,INSUFFICIENT_EVIDENCE
+VQC,1,1,0.0,0.0,0.0,,0.01,zero_or_negative,INSUFFICIENT_EVIDENCE
+QRC,1,2,0.5860440423979056,0.5860440423979056,0.5860440423979056,,0.01,positive,INSUFFICIENT_EVIDENCE
+QKRR,1,2,0.6290973424371529,0.6290973424371529,0.6290973424371529,,0.01,positive,INSUFFICIENT_EVIDENCE

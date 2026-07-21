@@ -1,0 +1,5 @@
+teacher,n_cells,harmful_naive_n,harm_avoidance_n,harm_avoidance_rate,false_acceptance_n,beneficial_naive_n,benefit_retained_n,benefit_retention_rate,missed_benefit_n,active_gate_n,intermediate_gate_n
+QELM,30,24,24,1.0,0,6,1,0.16666666666666666,5,1,0
+QKRR,30,24,23,0.9583333333333334,1,6,2,0.3333333333333333,4,3,1
+QRC,30,26,26,1.0,0,3,2,0.6666666666666666,1,2,1
+VQC,30,24,23,0.9583333333333334,1,6,1,0.16666666666666666,5,2,0
